@@ -11,8 +11,9 @@ This is a simple Spring Boot application performing CRUD operations using Postgr
 - **Java 17**
 - **Spring Boot 3.4.3**
 - **Spring Data JPA**
-- **PostgreSQL**
-- **Gradle**
+- **ReactJS (Frontend)**
+- **PostgreSQL Database**
+- **Gradle Build Tool**
 - **Postman (for testing)**
 
 ## Getting Started
