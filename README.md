@@ -1,4 +1,4 @@
-# Spring Boot CRUD with PostgreSQL 🚀
+# ReactJS and Spring Boot CRUD with PostgreSQL 🚀
 
 This is a simple Spring Boot application performing CRUD operations using PostgreSQL.
 
