@@ -1,5 +1,8 @@
 package com.retailer.ecommerce.shop.requestResponseDto;
 
+import lombok.Getter;
+
+@Getter
 public class AuthenticationResponse {
     private String token;
 
@@ -7,8 +10,5 @@ public class AuthenticationResponse {
         this.token = token;
     }
 
-    public String getToken() {
-        return token;
-    }
 }
 
